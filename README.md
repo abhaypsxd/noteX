@@ -1,2 +1,8 @@
-# noteX
-an app that enables smart notetaking, by integrating code snippets with notes, and providing a way to refer to your notes and codes, and also has a feature where you can write notes in markdown and export them to pdf, and also has a feature where you can write code in the app and run it in the app itself, and if you get stuck you can ask the personalized ai, that is rag trained for your personal notes.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
