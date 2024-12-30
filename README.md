@@ -1,2 +1,2 @@
 # noteX
-an app that enables smart notetaking.
+an app that enables smart notetaking, by integrating code snippets with notes, and providing a way to refer to your notes and codes, and also has a feature where you can write notes in markdown and export them to pdf, and also has a feature where you can write code in the app and run it in the app itself, and if you get stuck you can ask the personalized ai, that is rag trained for your personal notes.
